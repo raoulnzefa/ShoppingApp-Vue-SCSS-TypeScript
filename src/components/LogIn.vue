@@ -181,16 +181,6 @@ export default defineComponent({
         font-size: 16px; 
     }
 
-    .username-label {
-        
-    }
-    .username-input {
-
-    }
-
-    .password-label {
-
-    }
     .password-input {
         margin-bottom: 4px;
     }
@@ -203,9 +193,6 @@ export default defineComponent({
     .checkbox-label {
         font-weight: 400;
         font-size: 14px;
-    }
-    .checkbox-input {
-
     }
 
     
